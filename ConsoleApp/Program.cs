@@ -1,6 +1,9 @@
 ﻿using System;
 using Warehouse;
-
+/*
+ *Author: Niclas Timle
+ *Date: 01-08-2020
+ */
 namespace ConsoleApp
 {
     class Program
